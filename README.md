@@ -1,2 +1,3 @@
-# Eth_gas_few_Bot
-A telegram bot to alert you when gas few are low on Ethereum Network
+# Eth_gas_fee_Bot
+A Python3 Telegram bot to alert you when gas fee are low on Ethereum Network.
+
