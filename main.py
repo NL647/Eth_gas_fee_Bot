@@ -5,7 +5,7 @@ import os
 # Replace with your Telegram bot and chat information
 TELEGRAM_BOT_TOKEN = "xxxx"
 TELEGRAM_CHAT_ID = "xxxx"
-gas_alert = 16
+gas_alert = 20
 
 # Connect to an Ethereum node (you can use Infura or run your own node)
 w3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/xxxxxxxx'))
